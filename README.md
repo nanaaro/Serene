@@ -1,18 +1,27 @@
-### MyOrmawa - CRUD App
-Aplikasi CRUD Sederhana berbasis Flutter dengan API dari MockAPI berdasarkan studi kasus sistem manajemen keanggotaan organisasi mahasiswa.
+# Flutter Design App
 
-### Preview
-[![MyOrmawa Flutter Preview](https://img.youtube.com/vi/dEHWEogwVz4/maxresdefault.jpg)](https://youtu.be/dEHWEogwVz4)
+An app to shows architecture firm's portofolio and support online booking for cunsult services.
 
-## Getting Started
+# Features
 
-This project is a starting point for a Flutter application.
+- User Authentication (Login & Register)
+-  Landing Page & Home Page
+-  Portfolio
+-  Detail portofolio
+-  Detail information usage material
+-  Booking Schedule
+-  Architecture office information
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter](https://flutter.dev/docs/get-started/install)
+- Dart SDK
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+```bash
+git clone https://github.com/yourusername/flutter-design-app.git
+cd flutter-design-app
+flutter pub get
+flutter run
+
